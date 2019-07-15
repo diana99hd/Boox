@@ -1,3 +1,3 @@
 # Boox
-Sitio created with Bootstrap
+Web site created with Bootstrap
 https://diana99hd.github.io/Boox/
